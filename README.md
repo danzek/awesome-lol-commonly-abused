@@ -14,6 +14,7 @@ Resources related to living off the land (LOL / LoTL) techniques, tools, detecti
   - [AWS](#aws)
   - [Azure](#azure)
     - [M365](#m365)
+  - [General](#general)
 - [DevOps](#devops)
 - [Endpoint](#endpoint)
   - [General](#general)
