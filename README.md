@@ -51,7 +51,7 @@ Microsoft Azure related.
 
 - [Microsoft 365 Application IDs – BEC Investigation Resources](https://byteintocyber.com/microsoft-365-application-ids-bec-investigation-resources/) - Reference for application IDs in M365.
 
-## General
+### General
 
 Information related to cloud & app regardless of specific cloud environment or app.
 
