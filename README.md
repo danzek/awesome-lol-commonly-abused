@@ -10,6 +10,10 @@ Resources related to living off the land (LOL / LoTL) techniques, tools, detecti
 
 ## Contents
 
+- [Cloud & App](#cloud-app)
+  - [AWS](#aws)
+  - [Azure](#azure)
+    - [M365](#m365)
 - [DevOps](#devops)
 - [Endpoint](#endpoint)
   - [General](#general)
@@ -24,6 +28,34 @@ Resources related to living off the land (LOL / LoTL) techniques, tools, detecti
 
 
 ---
+
+## Cloud & App
+
+Related to cloud environments / services or SaaS apps.
+
+### AWS
+
+Related to Amazon Web Services (AWS).
+
+- [TrailDiscover](https://traildiscover.cloud/) - An evolving repository of CloudTrail events with detailed descriptions, MITRE ATT&CK insights, real-world incidents, references and security implications.
+
+### Azure
+
+Microsoft Azure related.
+
+- [Azure IP Lookup](https://www.azurespeed.com/Azure/IPLookup) - Find Azure service tags and region details for a given IP address or domain name. This tool leverages Microsoft's published service tag files to map IP addresses to physical data centers and cloud services. By checking the provided IP address or domain against these files, it identifies whether the IP is part of Azure, which service tag it belongs to, and the Azure region from which it originates.
+- [Microsoft Graph Permissions Explorer](https://graphpermissions.merill.net/permission/) - Reference for MS Graph permissions and the APIs that are enabled and the data objects exposed to the calling application for each.
+
+#### M365
+
+- [Microsoft 365 Application IDs – BEC Investigation Resources](https://byteintocyber.com/microsoft-365-application-ids-bec-investigation-resources/) - Reference for application IDs in M365.
+
+## General
+
+Information related to cloud & app regardless of specific cloud environment or app.
+
+- [Cloud Native Landscape](https://landscape.cncf.io) - The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquarters location. This project is intended as a map through the previously uncharted terrain of cloud native technologies. This attempts to categorize most of the projects and product offerings in the cloud native space. There are many routes to deploying a cloud native application, with CNCF Projects representing a particularly well-traveled path.
+- [Hacking the Cloud](https://hackingthe.cloud) - Hacking the Cloud is an encyclopedia of the attacks/tactics/techniques that offensive security professionals can use on their next cloud exploitation adventure. The goal is to share this knowledge with the security community to better defend cloud native technologies.
 
 ## DevOps
 
