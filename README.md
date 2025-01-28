@@ -67,6 +67,7 @@ Unix-specific.
 - [Argument Injection Vectors](https://sonarsource.github.io/argument-injection-vectors/) - A curated list of exploitable options when dealing with argument injection bugs. These are not vulnerabilities in the associated programs but rather intended features that were proven to be useful to attackers in very specific scenarios.
 - [GTFOArgs](https://gtfoargs.github.io) - GTFOArgs is a curated list of Unix binaries that can be manipulated for argument injection, possibly resulting in security vulnerabilities.
 - [GTFOBins](https://gtfobins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.
+- [lcdbins](https://github.com/ofasgard/lcdbins) - An lcdbin is a lowest-common denominator binary - one which, with rare exceptions, should be present on any UNIX-based operating system. This repository is a collection of oneliners that use lcdbins to perform enumeration and post-exploitation activities that you'd normally use other tools for - such as id, netstat or python. Use them when you find yourself in a stripped-down environment where the usual tools aren't available.
 
 
 ### Windows
