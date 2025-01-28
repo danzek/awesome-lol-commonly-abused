@@ -96,6 +96,7 @@ Related to hardware devices that are not considered traditional endpoints (e.g.,
 
 Network-specific or related to network traffic without being specific only to one operating system.
 
+- [LOLC2](https://lolc2.github.io) - A collection of C2 frameworks that leverage legitimate services to evade detection.
 - [LOTS Project](https://lots-project.com) - Living Off Trusted Sites (LOTS) Project. Attackers are using popular legitimate domains when conducting phishing, command and control, exfiltration, and downloading tools to evade detection. This curated list of websites allows attackers to use their domain or subdomain.
 - [LOTTunnels](https://lottunnels.github.io) - Living Off The Tunnels. The LOTTunnels Project is a community driven project to document digital tunnels that can be abused by threat actors as well by insiders for data exfiltration, persistence, shell access, etc.
 
