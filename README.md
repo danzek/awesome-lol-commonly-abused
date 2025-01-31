@@ -4,7 +4,7 @@
 
 Resources related to living off the land (LOL / LoTL) techniques, tools, detections, and more.
 
-*Contributions welcome.*
+*[Contributions welcome](https://github.com/danzek/awesome-lol-commonly-abused/blob/main/contributing.md).*
 
 ---
 
