@@ -101,7 +101,7 @@ Unix-specific.
 - [Argument Injection Vectors](https://sonarsource.github.io/argument-injection-vectors/) - A curated list of exploitable options when dealing with argument injection bugs. These are not vulnerabilities in the associated programs but rather intended features that were proven to be useful to attackers in very specific scenarios.
 - [GTFOArgs](https://gtfoargs.github.io) - GTFOArgs is a curated list of Unix binaries that can be manipulated for argument injection, possibly resulting in security vulnerabilities.
 - [GTFOBins](https://gtfobins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.
-- [lcdbins](https://github.com/ofasgard/lcdbins) - An lcdbin is a lowest-common denominator binary - one which, with rare exceptions, should be present on any UNIX-based operating system. This repository is a collection of oneliners that use lcdbins to perform enumeration and post-exploitation activities that you'd normally use other tools for - such as id, netstat or python. Use them when you find yourself in a stripped-down environment where the usual tools aren't available.
+- [ofasgard/lcdbins](https://github.com/ofasgard/lcdbins) - An lcdbin is a lowest-common denominator binary - one which, with rare exceptions, should be present on any UNIX-based operating system. This repository is a collection of oneliners that use lcdbins to perform enumeration and post-exploitation activities that you'd normally use other tools for - such as id, netstat or python. Use them when you find yourself in a stripped-down environment where the usual tools aren't available.
 
 
 ### Windows
@@ -131,6 +131,7 @@ Related to hardware devices that are not considered traditional endpoints (e.g.,
 
 Network-specific or related to network traffic without being specific only to one operating system.
 
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 - [LOLC2](https://lolc2.github.io) - A collection of C2 frameworks that leverage legitimate services to evade detection.
 - [LOTS Project](https://lots-project.com) - Living Off Trusted Sites (LOTS) Project. Attackers are using popular legitimate domains when conducting phishing, command and control, exfiltration, and downloading tools to evade detection. This curated list of websites allows attackers to use their domain or subdomain.
 - [LOTTunnels](https://lottunnels.github.io) - Living Off The Tunnels. The LOTTunnels Project is a community driven project to document digital tunnels that can be abused by threat actors as well by insiders for data exfiltration, persistence, shell access, etc.
