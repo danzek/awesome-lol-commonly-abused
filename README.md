@@ -59,6 +59,7 @@ Information related to cloud & app regardless of specific cloud environment or a
 
 - [Cloud Native Landscape](https://landscape.cncf.io) - The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquarters location. This project is intended as a map through the previously uncharted terrain of cloud native technologies. This attempts to categorize most of the projects and product offerings in the cloud native space. There are many routes to deploying a cloud native application, with CNCF Projects representing a particularly well-traveled path.
 - [Hacking the Cloud](https://hackingthe.cloud) - Hacking the Cloud is an encyclopedia of the attacks/tactics/techniques that offensive security professionals can use on their next cloud exploitation adventure. The goal is to share this knowledge with the security community to better defend cloud native technologies.
+- [RogueApps](https://huntresslabs.github.io/rogueapps) - The RogueApps project documents when Good Apps Go Rogue. RogueApps are OIDC/OAuth 2.0 applications that, while not explicitly evil, are often abused and used maliciously. This repository documents the emerging attack surface of SaaS, OIDC, and OAuth 2.0 applications that help attackers during intrusions. If the application was not specifically created for evil purposes, but has been observed during identity compromises, it's a RogueApp.
 
 ## DevOps
 
