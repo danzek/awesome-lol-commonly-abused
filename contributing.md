@@ -1,6 +1,6 @@
 # Contribution guidelines
 
-Please see the [contibutor code of conduct](https://github.com/danzek/awesome-lol-commonly-abused/blob/main/code_of_conduct.md).
+Please see the [contributor code of conduct](https://github.com/danzek/awesome-lol-commonly-abused/blob/main/code_of_conduct.md).
 
 ---
 
