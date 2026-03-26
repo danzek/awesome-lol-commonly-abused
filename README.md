@@ -2,6 +2,8 @@
 
 > Awesome list of Living off the Land (LOL) methods, tools, and features commonly abused by attackers
 
+<img src="banner.png" align="center" width="100%">
+
 Living off the Land (LOL / LoTL) is an attack strategy where adversaries rely on tools, binaries, and features already present in a target environment to blend in with normal activity and evade detection (rather than introducing external malware). This curated list aggregates LOL resources, reference projects, and commonly abused tools and techniques across cloud & SaaS apps, DevOps pipelines, endpoints (Windows, macOS, Unix), hardware, and networks. Useful for red teamers, threat hunters, and defenders building detections.
 
 *[Contributions welcome](https://github.com/danzek/awesome-lol-commonly-abused/blob/main/contributing.md).*
