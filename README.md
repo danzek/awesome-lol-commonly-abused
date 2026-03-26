@@ -45,6 +45,7 @@ Related to Amazon Web Services (AWS).
 Microsoft Azure related.
 
 - [Azure IP Lookup](https://www.azurespeed.com/Azure/IPLookup) - Find Azure service tags and region details for a given IP address or domain name. This tool leverages Microsoft's published service tag files to map IP addresses to physical data centers and cloud services. By checking the provided IP address or domain against these files, it identifies whether the IP is part of Azure, which service tag it belongs to, and the Azure region from which it originates.
+- [Entra ID First Party Apps & Scope Browser](https://entrascopes.com/) - Browse and explore first-party applications including their pre-consented permissions in Microsoft Entra ID. Enables filtering on the Microsoft first-party apps vulnerable to ConsentFix/AuthCodeFix and that have default exceptions from conditional access policies.
 - [Microsoft Graph Permissions Explorer](https://graphpermissions.merill.net/permission/) - Reference for MS Graph permissions and the APIs that are enabled and the data objects exposed to the calling application for each.
 
 #### M365
