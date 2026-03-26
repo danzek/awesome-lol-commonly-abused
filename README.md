@@ -13,7 +13,7 @@ Resources related to living off the land (LOL / LoTL) techniques, tools, detecti
 - [Cloud & App](#cloud--app)
   - [AWS](#aws)
   - [Azure](#azure)
-    - [M365](#m365)
+  - [M365](#m365)
   - [General Cloud](#general-cloud)
 - [DevOps](#devops)
 - [Endpoint](#endpoint)
@@ -48,7 +48,7 @@ Microsoft Azure related.
 - [Entra ID First Party Apps & Scope Browser](https://entrascopes.com/) - Browse and explore first-party applications including their pre-consented permissions in Microsoft Entra ID. Enables filtering on the Microsoft first-party apps vulnerable to ConsentFix/AuthCodeFix and that have default exceptions from conditional access policies.
 - [Microsoft Graph Permissions Explorer](https://graphpermissions.merill.net/permission/) - Reference for MS Graph permissions and the APIs that are enabled and the data objects exposed to the calling application for each.
 
-#### M365
+### M365
 
 Related to Microsoft 365.
 
