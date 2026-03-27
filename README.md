@@ -1,6 +1,6 @@
 # Awesome LOL / Commonly Abused  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> Awesome list of Living off the Land (LOL) methods, tools, and features commonly abused by attackers
+> Living off the Land (LOL) methods, tools, and features commonly abused by attackers
 
 [<img src="banner.png" align="center" width="100%">](https://github.com/danzek/awesome-lol-commonly-abused)
 
