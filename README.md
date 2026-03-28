@@ -12,6 +12,7 @@ Living off the Land (LOL / LoTL) is an attack strategy where adversaries rely on
 
 ## Contents
 
+- [API](#api)
 - [Cloud & App](#cloud--app)
   - [AWS](#aws)
   - [Azure](#azure)
@@ -29,6 +30,12 @@ Living off the Land (LOL / LoTL) is an attack strategy where adversaries rely on
 
 
 ---
+
+## API
+
+Related to Application Programming Interfaces (APIs).
+
+- [LOLAPI](https://themagicclaw.github.io/LOLAPI/) - Catalogs real-world abused APIs across Windows, Cloud, and Browser platforms—with detection strategies, mitigation guidance, and red team POCs.
 
 ## Cloud & App
 
