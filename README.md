@@ -19,28 +19,28 @@ Living off the land (LOL/LoTL) is an attack strategy where adversaries abuse too
 
 ## Cloud & App
 
-- [Azure IP Lookup](https://www.azurespeed.com/Azure/IPLookup) - Maps IP addresses and domains to Azure service tags, regions, and data centers using Microsoft's published service tag files.
+- [Azure IP Lookup](https://www.azurespeed.com/Azure/IPLookup) - Maps IPs and domains to Azure service tags, regions, and data centers; useful for identifying when Azure services are abused to masquerade as legitimate Microsoft traffic.
 - [Entra ID First Party Apps & Scope Browser](https://entrascopes.com/) - First-party applications including their pre-consented permissions in Microsoft Entra ID, apps vulnerable to ConsentFix/AuthCodeFix, and those with default exceptions from conditional access policies.
 - [Hacking the Cloud](https://hackingthe.cloud) - Encyclopedia of attacks/tactics/techniques for cloud exploitation.
 - [LOLAPI](https://themagicclaw.github.io/LOLAPI/) - Real-world abused APIs across Windows, Cloud, and Browser platforms with detection strategies, mitigation guidance, and red team POCs.
 - [LOLAPPS](https://lolapps-project.github.io) - Living Off The Land Applications, including built-in and third-party applications.
 - [LOLFSaaS](https://lolfsaas.github.io/) - Free-tier SaaS platforms documented for abuse surface, OPSEC profiles, detection logic, and C2 framework mappings.
 - [Microsoft 365 Application IDs – BEC Investigation Resources](https://byteintocyber.com/microsoft-365-application-ids-bec-investigation-resources/) - Reference for application IDs commonly abused in M365.
-- [Microsoft Graph Permissions Explorer](https://graphpermissions.merill.net/permission/) - Reference for MS Graph permissions and the APIs that are enabled and the data objects exposed to the calling application for each.
+- [Microsoft Graph Permissions Explorer](https://graphpermissions.merill.net/permission/) - Reference for Microsoft Graph permissions, mapping each to the APIs and data objects exposed, useful for assessing abuse potential of app registrations and OAuth grants.
 - [RogueApps](https://huntresslabs.github.io/rogueapps) - OIDC/OAuth 2.0 applications that are often abused and used maliciously.
 - [TrailDiscover](https://traildiscover.cloud/) - Repository of AWS CloudTrail events with detailed descriptions, MITRE ATT&CK insights, real-world incidents, references, and security implications.
 
 
 ## Endpoint
 
-- [Argument Injection Vectors](https://sonarsource.github.io/argument-injection-vectors/) - Exploitable options for argument injection.
+- [Argument Injection Vectors](https://sonarsource.github.io/argument-injection-vectors/) - Intended features of legitimate programs exploitable as argument injection vectors.
 - [Bootloaders.io](https://www.bootloaders.io) - Known malicious bootloaders for various operating systems.
-- [BYOL](https://cloud.google.com/blog/topics/threat-intelligence/bring-your-own-land-novel-red-teaming-technique/) - Bring Your Own Land (BYOL). Executing custom C#-based assemblies entirely within memory to reduce reliance on tools present on the target system.
+- [BYOL](https://cloud.google.com/blog/topics/threat-intelligence/bring-your-own-land-novel-red-teaming-technique/) - Bring Your Own Land (BYOL): Executing custom C#-based assemblies entirely within memory to reduce reliance on tools present on the target system.
 - [Evasion Techniques](https://evasions.checkpoint.com/about/) - Encyclopedia of evasion and anti-debug techniques.
 - [Filesec.io](https://filesec.io) - File extensions being used by attackers, tagged by function and operating system.
 - [GTFOArgs](https://gtfoargs.github.io) - Unix binaries that can be manipulated for argument injection, possibly resulting in security vulnerabilities.
 - [GTFOBins](https://gtfobins.github.io) - Unix binaries that can be used to bypass local security restrictions in misconfigured systems.
-- [HijackLibs](https://hijacklibs.net) - DLL Hijacking candidates. Mapping between DLLs and vulnerable executables.
+- [HijackLibs](https://hijacklibs.net) - DLL hijacking candidates mapping vulnerable executables to abusable DLLs, with Sigma detection rules for defenders.
 - [lcdbins](https://github.com/ofasgard/lcdbins) - Collection of oneliners that use lowest-common denominator binaries (lcdbins) present on most UNIX-based operating systems to perform enumeration and post-exploitation activities.
 - [LOFLCAB](https://lofl-project.github.io) - Living off the Foreign Land Cmdlets and Binaries (cmdlets, binaries, scripts, and WMI classes).
 - [LOLAD](https://lolad-project.github.io) - Catalog of Active Directory techniques, commands, and functions that attackers can abuse.
@@ -54,15 +54,15 @@ Living off the land (LOL/LoTL) is an attack strategy where adversaries abuse too
 - [LOOBins](https://www.loobins.io) - Living Off the Orchard (LOO): Built-in macOS binaries that can be abused by attackers, with detailed usage information.
 - [LOTHardware](https://lothardware.com.tr) - Catalog of hardware and devices commonly abused by attackers.
 - [MalAPI.io](https://malapi.io) - Maps Windows APIs to common techniques used by malware.
-- [Persistence Info](https://persistence-info.github.io) - Windows persistence mechanisms to improve protection and detection efficiency.
-- [Sploitify](https://sploitify.haxx.it/) - Interactive cheat sheet of mostly public server-side exploits.
+- [Persistence Info](https://persistence-info.github.io) - Windows persistence mechanisms including registry keys, scheduled tasks, services, and DLLs, with detection and protection guidance.
+- [Sploitify](https://sploitify.haxx.it) - Interactive cheat sheet of public server-side exploits, searchable by product.
 - [WADComs](https://wadcoms.github.io) - Interactive cheat sheet with offensive security tools and their respective commands to be used against Windows / Active Directory environments.
 - [WTFBins](https://wtfbins.wtf) - Benign applications that exhibit suspicious behavior, generating noise and false positives in threat hunting and automated detections.
 
 
 ## Network
 
-- [Awesome Tunneling](https://github.com/anderspitman/awesome-tunneling) - Cloudflare/ngrok Tunnel alternatives and other tunneling software and services with focus on self-hosting.
+- [Awesome Tunneling](https://github.com/anderspitman/awesome-tunneling) - Tunneling software and services, including self-hosted alternatives to ngrok and Cloudflare Tunnel, commonly abused for C2 and exfiltration.
 - [LOLC2](https://lolc2.github.io) - C2 frameworks that leverage legitimate services to evade detection.
 - [LOLEXFIL](https://lolexfil.github.io/) - Data exfiltration reference covering LOLBins, RMM tools, cloud storage, tunneling protocols, and more, each with detection patterns, simulation commands, DFIR artifacts, IOCs, and ATT&CK mappings.
 - [LOTS Project](https://lots-project.com) - Living Off Trusted Sites: Legitimate popular domains abused for phishing, C2, exfiltration, and tool delivery to evade detection.
