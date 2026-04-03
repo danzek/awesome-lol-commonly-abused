@@ -1,10 +1,10 @@
-# Awesome LOL & Commonly Abused  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome LOL  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 > Living off the Land (LOL) methods, tools, and features commonly abused by attackers.
 
-[<img src="banner.png" align="center" width="1792" height="592">](https://github.com/danzek/awesome-lol-commonly-abused)
+[<img src="banner.png" align="center" width="1792" height="592">](https://github.com/danzek/awesome-lol)
 
-Living off the Land (LOL / LoTL) is an attack strategy where adversaries rely on tools, binaries, and features already present in a target environment to blend in with normal activity and evade detection (rather than introducing external malware).
+Living off the Land (LOL / LoTL) is a cybersecurity attack strategy where adversaries rely on tools, binaries, and features already present in a target environment to blend in with normal activity and evade detection (rather than introducing external malware).
 
 
 ## Contents
