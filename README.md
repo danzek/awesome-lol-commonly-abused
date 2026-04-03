@@ -24,6 +24,7 @@ Living off the land (LOL/LoTL) is an attack strategy where adversaries abuse too
 - [Hacking the Cloud](https://hackingthe.cloud) - Encyclopedia of attacks/tactics/techniques for cloud exploitation.
 - [LOLAPI](https://themagicclaw.github.io/LOLAPI/) - Real-world abused APIs across Windows, Cloud, and Browser platforms with detection strategies, mitigation guidance, and red team POCs.
 - [LOLAPPS](https://lolapps-project.github.io) - Living Off The Land Applications, including built-in and third-party applications.
+- [LOLFSaaS](https://lolfsaas.github.io/) - Free-tier SaaS platforms documented for abuse surface, OPSEC profiles, detection logic, and C2 framework mappings.
 - [Microsoft 365 Application IDs – BEC Investigation Resources](https://byteintocyber.com/microsoft-365-application-ids-bec-investigation-resources/) - Reference for application IDs commonly abused in M365.
 - [Microsoft Graph Permissions Explorer](https://graphpermissions.merill.net/permission/) - Reference for MS Graph permissions and the APIs that are enabled and the data objects exposed to the calling application for each.
 - [RogueApps](https://huntresslabs.github.io/rogueapps) - OIDC/OAuth 2.0 applications that are often abused and used maliciously.
@@ -45,6 +46,7 @@ Living off the land (LOL/LoTL) is an attack strategy where adversaries abuse too
 - [LOLAD](https://lolad-project.github.io) - Catalog of Active Directory techniques, commands, and functions that attackers can abuse.
 - [LOLBAS](https://lolbas-project.github.io) - Living Off The Land Binaries, Scripts and Libraries.
 - [LOLBins CTI-Driven](https://lolbins-ctidriven.vercel.app) - Maps threat actor LOLBin usage during intrusions into graphical, STIX-formatted data for threat intelligence platforms.
+- [LOLBins Reference](https://livingofftheland.dev/) - Interactive reference for Windows and Linux LOLBins with a dynamic payload builder, ATT&CK mapping, and auto-updates from official sources.
 - [LOLDrivers](https://www.loldrivers.io) - Windows drivers used by adversaries to bypass security controls and carry out attacks.
 - [LOLESXi](https://lolesxi-project.github.io/LOLESXi/) - Binaries/scripts natively available in VMware ESXi that adversaries have utilized.
 - [LOLGlobs](https://0xv1n.github.io/LOLGlobs/) - Glob-based command obfuscation techniques for Linux, macOS, Windows CMD, and PowerShell used to bypass signature-based detection in AV, EDR, and WAF products.
@@ -62,8 +64,10 @@ Living off the land (LOL/LoTL) is an attack strategy where adversaries abuse too
 
 - [Awesome Tunneling](https://github.com/anderspitman/awesome-tunneling) - Cloudflare/ngrok Tunnel alternatives and other tunneling software and services with focus on self-hosting.
 - [LOLC2](https://lolc2.github.io) - C2 frameworks that leverage legitimate services to evade detection.
+- [LOLEXFIL](https://lolexfil.github.io/) - Data exfiltration reference covering LOLBins, RMM tools, cloud storage, tunneling protocols, and more, each with detection patterns, simulation commands, DFIR artifacts, IOCs, and ATT&CK mappings.
 - [LOTS Project](https://lots-project.com) - Living Off Trusted Sites: Legitimate popular domains abused for phishing, C2, exfiltration, and tool delivery to evade detection.
 - [LOTTunnels](https://lottunnels.github.io) - Living Off the Tunnels: Legitimate tunneling services abused for exfiltration, persistence, and shell access.
+- [LoTWH](https://lotwebhooks.github.io) - Living Off The Webhooks: Webhook services abused for data exfiltration and C2 communications.
 
 
 ## Software Supply Chain
