@@ -19,6 +19,8 @@ Living off the land (LOL/LoTL) is an attack strategy where adversaries abuse too
 
 ## Cloud & App
 
+- [Azure App IDs](https://malwaremaloney.blogspot.com/2022/12/azure-app-ids.html) - Azure application names and IDs.
+- [Azure App IDs Security and Compliance](https://learn.microsoft.com/en-us/microsoft-365-app-certification/azure/azure-apps) - Azure application IDs linked to security, data handling, and compliance information.
 - [Azure IP Lookup](https://www.azurespeed.com/Azure/IPLookup) - Maps IPs and domains to Azure service tags, regions, and data centers; useful for identifying when Azure services are abused to masquerade as legitimate Microsoft traffic.
 - [Entra ID First Party Apps & Scope Browser](https://entrascopes.com/) - First-party applications including their pre-consented permissions in Microsoft Entra ID, apps vulnerable to ConsentFix/AuthCodeFix, and those with default exceptions from conditional access policies.
 - [Hacking the Cloud](https://hackingthe.cloud) - Encyclopedia of attacks/tactics/techniques for cloud exploitation.
